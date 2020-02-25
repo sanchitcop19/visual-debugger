@@ -1,0 +1,18 @@
+.list-item{
+    display: list-item;
+    float: left;
+    margin: 1em;
+    border-color: black;
+    border: darkolivegreen;
+    border-style: solid;
+    border-width: thin;
+    padding: 1em;
+}
+
+.list{
+    list-style-type: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

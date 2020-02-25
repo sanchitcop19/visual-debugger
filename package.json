@@ -1,0 +1,19 @@
+{
+  "name": "visual-debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchitcop19/visual-debugger.git"
+  },
+  "author": "Sanchit Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchitcop19/visual-debugger/issues"
+  },
+  "homepage": "https://github.com/sanchitcop19/visual-debugger#readme"
+}
